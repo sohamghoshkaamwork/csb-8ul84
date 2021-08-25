@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,MACE,WAAY,CACZ,YAAa,CACb,qBACF","file":"styles.502c817c.css","sourceRoot":"..","sourcesContent":[".grid {\n  width: 400px;\n  height: 300px;\n  border: solid black 1px;\n}\n"]}
